@@ -8,6 +8,7 @@ This repository contains solutions to various competitive programming problems f
 - [Codeforces](https://codeforces.com/)
 - [AtCoder](https://atcoder.jp/)
 - [CodeChef](https://www.codechef.com/)
+- [Kattis](https://open.kattis.com/)
 
 ## Structure
 The repository is organized by platform and then by problem. Each problem has its own directory containing the solution and any necessary files.
